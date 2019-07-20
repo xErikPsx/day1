@@ -1,0 +1,81 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+header img{
+    height: 50px;
+    width: 50px;
+}
+
+section{
+    width: 100%;
+}
+.seccion1{
+    border: solid pink 2px;
+    height: 100vh;
+    display: flex;
+    flex-direction: row;
+}
+
+.cuadro{
+    width: 30%;
+    height: 300px;
+    border: solid black 3px;
+    margin: 100px;
+}
+
+.seccion2{
+    display: flex;
+    flex-direction: row;
+    border: solid blue 2px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.parrafos{
+    margin: 1%;
+}
+
+.seccion2 img{
+    width: 20px;
+    height: 20px;
+}
+
+.seccion3{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.seccion3 img{
+    height: 150px;
+    width: 150px;
+}
+
+.seccion4{
+    display: flex;
+    flex-direction: row;
+    border: solid red 2px;
+    justify-content: center;
+}
+
+.seccion4 p{
+    font-size: 3em;
+}
+
+.seccion5{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 50px;
+    border: solid violet 2px;   
+}
+
+button{
+    height: 20px;
+}
+
+footer{
+    height: 80px;
+}
