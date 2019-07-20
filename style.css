@@ -2,6 +2,9 @@ body{
     margin: 0px;
     padding: 0px;
 }
+h1{
+    font-size: 4em;
+}
 
 header img{
     height: 50px;
